@@ -1,16 +1,23 @@
-## Hi there 👋
+# Nova Web Digital
 
-<!--
-**NovaWebDigital/NovaWebDigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollamos soluciones tecnológicas para empresas e instituciones.
 
-Here are some ideas to get you started:
+## Servicios
+- Desarrollo Web
+- Sistemas de Información
+- Bases de Datos
+- Mantenimiento de Sistemas
+- Diseño Responsivo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+- PHP
+- MySQL
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+
+## Contacto
+📧 novaweb26@gmail.com
+
+📍 Santa Cruz, Bolivia
